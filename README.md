@@ -1,4 +1,6 @@
 # curly-potato
 Dette er en test
-hei hei #norway 
+hei hei #norway
 i dag er det torsdag
+
+🍴
